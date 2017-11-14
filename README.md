@@ -1,4 +1,5 @@
-# pearl-hunter
+# Pearl Hunter
+
 Pearl Hunter is a hyper-heuristic selection algorithm in Java, developed for the CHeSC 2011 competition.
 
 # How to cite
